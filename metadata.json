@@ -1,0 +1,6 @@
+{
+  "name": "Google Business Profile Manager",
+  "description": "AI-driven multi-tenant SaaS dashboard to analyze, optimize, and automate Google Business Profiles, content calendars, scheduled posts, reviews, and local SEO performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
